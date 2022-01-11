@@ -18,6 +18,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="yoda.pic" height="150" src="https://i.pinimg.com/originals/fc/0a/bc/fc0abc3f43ea43553c5354fb7656db7c.gif" 
+       
+   ![Snake animation](https://github.com/Biwell18/Biwell18/blob/output/github-contribution-grid-snake.svg)
 </div>
    
-    ![Snake animation](https://github.com/Biwell18/Biwell18/blob/output/github-contribution-grid-snake.svg)
+
