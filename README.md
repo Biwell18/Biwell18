@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou em busca de trabalhar com back-end
-- 🌱 Eu estou atualmente aprendendo HTML & CSS
+- 🌱 Eu estou atualmente aprendendo HTML & CSS & JavaScript
 - 🤔 Eu estou precisando de ajuda em programação no geral
 - 😄 Pronomes: ele/dele
 
