@@ -1,4 +1,4 @@
-### Olá, meu nome é Gabriel e eu sou um iniciante em programação! 👋
+### Olá, meu nome é Gabriel e eu sou um estudante de programação! 👋
 
 
 - 🔭 Hoje trabalho como Jovem Aprendiz bancário e estou para entrar na faculdade de Análise e Desenvolvimento de Sistemas
