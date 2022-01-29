@@ -1,7 +1,7 @@
 ### Olá, meu nome é Gabriel e eu sou um estudante de programação! 👋
 
 
-- 🔭 Hoje trabalho como Jovem Aprendiz bancário e estou para entrar na faculdade de Análise e Desenvolvimento de Sistemas
+- 🔭 Hoje trabalho como Jovem Aprendiz bancário e estou em busca de entrar na faculdade de Análise e Desenvolvimento de Sistemas
 - 🌱 Eu estou atualmente aprendendo HTML & CSS & JavaScript
 - 😄 Pronomes: ele/dele
 
