@@ -1,9 +1,8 @@
 ### Olá, meu nome é Gabriel e eu sou um iniciante em programação! 👋
 
 
-- 🔭 Hoje estou em busca de trabalhar com back-end
+- 🔭 Hoje trabalho como Jovem Aprendiz bancário e estou para entrar na faculdade de Análise e Desenvolvimento de Sistemas
 - 🌱 Eu estou atualmente aprendendo HTML & CSS & JavaScript
-- 🤔 Eu estou precisando de ajuda em programação no geral
 - 😄 Pronomes: ele/dele
 
 <div align="left">
