@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje trabalho como Jovem Aprendiz bancário e estou cursando Análise e Desenvolvimento de Sistemas atráves da Uninove
-- 🌱 Eu estou atualmente aprendendo HTML & CSS & JavaScript & C++ & Python & React
-- 😄 Pronomes: ele/dele
+- 🌱 Eu estou atualmente aprendendo HTML & CSS & JavaScript & C++ 
+- 😄 Busco aprender futuramente: Python & React
 
 <div align="left">
   <a href="https://github.com/Biwell18">
